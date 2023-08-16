@@ -1,14 +1,5 @@
-seed
-
-seed horn horn
-
-grab
-
-nosewrong
-
-green onion existle
-
-blood cough blood
+라이브러리 유지보수가 힘들어서 디스코드 채널을 만들었습니다.
+https://discord.gg/xgfTA8DP8H
 
 
 # libraries
